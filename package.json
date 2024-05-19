@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Sia Plugin",
+  "name": "sia-homebridge-plugin",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Плагин датчика влажности и т.д.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git+https://github.com/denv77/homebridge-plugin-template.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/denv77/homebridge-plugin-template/issues"
   },
   "engines": {
     "node": "^18.17.0 || ^20.9.0",
